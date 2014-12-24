@@ -1,0 +1,40 @@
+body{
+	/* Background pattern from subtlepatterns.com */
+	/*image colors:
+		white:#fafafa
+		grey:#ebebeb
+	*/
+	background-image:url("images/symphony.png");
+	background-repeat:repeat;
+}
+
+#header{
+	background:#00BFE8; /*blue color*/
+	height:100px;
+	min-width:600px;
+	box-shadow: 0px 3px 3px #B8C4CC;
+	text-align: center;
+	line-height: 100px;
+	color:white;
+	font-size: 70px;
+	font-family:"candara",Sans-Serif;
+	margin-bottom: 4px;
+
+}
+
+#article{
+	background:white;
+	height:1000px;
+	width:75%;
+	text-align: center;
+	color:black;
+	font-size: 16px;
+	font-family:"candara",Sans-Serif;
+	opacity:1.0;
+	margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid #fafafa;
+    border-left: 3px solid #fafafa;
+    border-right: 3px solid #fafafa;
+
+}

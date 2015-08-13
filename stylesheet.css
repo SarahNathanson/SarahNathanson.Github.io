@@ -58,7 +58,7 @@ a:hover {
     color: gray;
 }
 
-/* selected link */
+/* clicked link */
 a:active {
     color: black;
 }

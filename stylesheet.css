@@ -66,9 +66,12 @@ a:active {
 .patch{
 	width:30%;
 	min-width: 156px;
-	height:50px;
+	min-height: 156px;
 	float:left;
 	text-align: center;
 	margin-top:20px;
 }
 
+.row{
+   
+}
